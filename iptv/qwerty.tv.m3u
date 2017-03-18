@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:0,СТС
+#EXTINF:0 type="stream" ,СТС
 udp://@239.255.2.7:1234
-#EXTINF:0,ТНТ
+#EXTINF:0 type="stream" ,ТНТ
 udp://@239.255.2.8:1234
-#EXTINF:0,Рен-ЕМ
+#EXTINF:0 type="stream" ,Рен-ЕМ
 udp://@239.255.2.9:1234
-#EXTINF:0,Перец
+#EXTINF:0 type="stream" ,Перец
 udp://@239.255.2.18:1234
-#EXTINF:0,Звезда
+#EXTINF:0 type="stream" ,Звезда
 udp://@239.255.2.22:1234
-#EXTINF:0,Q-1
+#EXTINF:0 type="stream" ,Q-1
 udp://@239.255.2.100:1234
-#EXTINF:0,Q-2
+#EXTINF:0 type="stream" ,Q-2
 udp://@239.255.2.101:1234
-#EXTINF:0,Q-3
+#EXTINF:0 type="stream" ,Q-3
 udp://@239.255.2.102:1234
-#EXTINF:0,Карусель
+#EXTINF:0 type="stream" ,Карусель
 udp://@239.255.2.20:1234
-#EXTINF:0,Первый
+#EXTINF:0 type="stream" ,Первый
 udp://@239.255.2.1:1234
-#EXTINF:0,Россия-1
+#EXTINF:0 type="stream" ,Россия-1
 udp://@239.255.2.2:1234
-#EXTINF:0,ТВЦ
+#EXTINF:0 type="stream" ,ТВЦ
 udp://@239.255.2.3:1234
-#EXTINF:0,НТВ
+#EXTINF:0 type="stream" ,НТВ
 udp://@239.255.2.4:1234
-#EXTINF:0,Россия-культура
+#EXTINF:0 type="stream" ,Россия-культура
 udp://@239.255.2.5:1234
-#EXTINF:0,Россия-2
+#EXTINF:0 type="stream" ,Россия-2
 udp://@239.255.2.6:1234
-#EXTINF:0,РБК
+#EXTINF:0 type="stream" ,РБК
 udp://@239.255.2.10:1234
-#EXTINF:0,ТРО
+#EXTINF:0 type="stream" ,ТРО
 udp://@239.255.2.11:1234
-#EXTINF:0,Ю
+#EXTINF:0 type="stream" ,Ю
 udp://@239.255.2.12:1234
-#EXTINF:0,Пятница
+#EXTINF:0 type="stream" ,Пятница
 udp://@239.255.2.13:1234
-#EXTINF:0,A-one
+#EXTINF:0 type="stream" ,A-one
 udp://@239.255.2.14:1234
-#EXTINF:0,Россия-24
+#EXTINF:0 type="stream" ,Россия-24
 udp://@239.255.2.15:1234
-#EXTINF:0,TВ3
+#EXTINF:0 type="stream" ,TВ3
 udp://@239.255.2.16:1234
-#EXTINF:0,Домашний
+#EXTINF:0 type="stream" ,Домашний
 udp://@239.255.2.17:1234
-#EXTINF:0,Дисней
+#EXTINF:0 type="stream" ,Дисней
 udp://@239.255.2.25:1234
-#EXTINF:0,Москва24
+#EXTINF:0 type="stream" ,Москва24
 udp://@239.255.2.26:1234
-#EXTINF:0,5канал Петербург
+#EXTINF:0 type="stream" ,5канал Петербург
 udp://@239.255.2.28:1234
-#EXTINF:0,2x2
+#EXTINF:0 type="stream" ,2x2
 udp://@239.255.2.31:1234
-#EXTINF:0,OTР
+#EXTINF:0 type="stream" ,OTР
 udp://@239.255.2.19:1234
-#EXTINF:0,Промоканал QWERTY
+#EXTINF:0 type="stream" ,Промоканал QWERTY
 udp://@239.255.2.34:1234
-#EXTINF:0,Домашний магазин
+#EXTINF:0 type="stream" ,Домашний магазин
 udp://@239.255.2.29:1234
-#EXTINF:0,ТТС
+#EXTINF:0 type="stream" ,ТТС
 udp://@239.255.2.27:1234
